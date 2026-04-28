@@ -1,0 +1,1 @@
+{"mcpServers":{"code-review-graph":{"command":"code-review-graph","args":["serve"],"type":"stdio","alwaysAllow":["find_large_functions_tool","list_flows_tool","get_flow_tool"],"disabledTools":["find_large_functions_tool"],"disabled":true}}}
